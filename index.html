@@ -19,12 +19,15 @@ body {
 	height: 6000px;
 	background-color:#FFBE00;
 	border: 6px solid#FF6E00;
+	border-image: url("border.png") 50 round;
 	box-shadow: 3px 3px 20px black;
 	}
 	</style>
 <style>
 	.image {
-	background-color:#FFBE00;
+	position: relative;
+	left:-300px;
+	box-shadow: 3px 3px 5px black;
 	}
 	</style>
 <style>
@@ -32,14 +35,8 @@ body {
 	color:black;
 	text-shadow: 3px 3px 5px #FF6E00;
 	text-decoration-line: underline;
-	animation-name: example;
-	animation-duration: 4s;
 	}
 	</style>
-@keyframes example {
-	from{transform: rotateY(0deg);}
-	to{tranform:rotateY (360deg);}
-	}
 <style>
 	.host {
 	width: 220px;
@@ -49,6 +46,7 @@ body {
 	left: 40px;
 	top: 90px;
 	border: 6px solid #FF6E00;
+	border-image: url("border.png") 50 round;
 	box-shadow: 3px 3px 20px black;
 	}
 	</style>
@@ -57,13 +55,13 @@ body {
 	<center><div class="mainbox">
 		<h1 class="title">Welcome to mangowow.net!</h1>
 		<p>Welcome to mangowow.net! This is my mango appreciation web page, where <br> all things mango are celebrated and cherished. Enjoy!</p>
-		<img src="Mangolimesalsa.gif" width="200" alt=""/> </div>
+		<img class="image" src="Mangolimesalsa.gif" width="200" alt=""/> </div>
 		</center>
 	</body>
 <body>
 <div class="host">
 		<center><h2 class=title>Hosted by:</h2></center>
-	<center><img class="image" src="github-pages.png" width="160" height="40" alt=""/></center>
+	<center><img src="github-pages.png" width="160" height="40" alt=""/></center>
 		</div>
 </body>
 <header>Content for New header Tag Goes Here</header>
