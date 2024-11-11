@@ -8,7 +8,6 @@ Size: 82
 MD5sum: d461e1a230a5a9b812b3b2c22cc6a165
 Description: LegacyAlerts
 Name: LegacyAlerts
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.cheesecakeufo.legacyalerts
 
 Package: org.coolstar.classiclockscreen
 Version: 3.3.1
@@ -20,5 +19,4 @@ Size: 719
 MD5sum: 7d5da71444883fec6d4273860d981ca3
 Description: ClassicLockScreen
 Name: ClassicLockScreen
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=org.coolstar.classiclockscreen
 
