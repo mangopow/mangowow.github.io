@@ -1,5 +1,5 @@
 <package>
-	<id>org.coolstar.classiclockscreen/id>
+	<id>org.coolstar.classiclockscreen</id>
 	<name>ClassicLockScreen</name>
 	<version>3.3.1</version>
 	<compatibility>
