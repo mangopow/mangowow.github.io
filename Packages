@@ -1,14 +1,3 @@
-Package: com.cheesecakeufo.legacyalerts
-Version: 1.0-169
-Section: Tweaks
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.cheesecakeufo.legacyalerts_1.0-169_iphoneos-arm.deb
-Size: 82
-MD5sum: d461e1a230a5a9b812b3b2c22cc6a165
-Description: LegacyAlerts
-Name: LegacyAlerts
-
 Package: org.coolstar.classiclockscreen
 Version: 3.3.1
 Section: Tweaks
@@ -19,4 +8,15 @@ Size: 719
 MD5sum: 7d5da71444883fec6d4273860d981ca3
 Description: ClassicLockScreen
 Name: ClassicLockScreen
+
+Package: com.cheesecakeufo.legacyalerts
+Version: 1.0-169
+Section: Tweaks
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.cheesecakeufo.legacyalerts_1.0-169_iphoneos-arm.deb
+Size: 82
+MD5sum: d461e1a230a5a9b812b3b2c22cc6a165
+Description: LegacyAlerts
+Name: LegacyAlerts
 
