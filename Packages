@@ -8,20 +8,17 @@ Size: 82
 MD5sum: d461e1a230a5a9b812b3b2c22cc6a165
 Description: LegacyAlerts
 Name: LegacyAlerts
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.cheesecakeufo.legacyalerts
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Package: org.coolstar.classiclockscreen
+Version: 3.3.1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Filename: ./debs/org.coolstar.classiclockscreen_3.3.1_iphoneos-arm.deb
+Size: 719
+MD5sum: 7d5da71444883fec6d4273860d981ca3
+Description: ClassicLockScreen
+Name: ClassicLockScreen
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=org.coolstar.classiclockscreen
 
