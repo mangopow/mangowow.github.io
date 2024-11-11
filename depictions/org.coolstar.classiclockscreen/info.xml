@@ -1,7 +1,7 @@
 <package>
-	<id>com.cheesecakeufo.legacyalerts/id>
-	<name>LegacyAlerts</name>
-	<version>1.0-169</version>
+	<id>org.coolstar.classiclockscreen/id>
+	<name>ClassicLockScreen</name>
+	<version>3.3.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -10,5 +10,5 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>LegacyAlerts</shortDescription>
+	<shortDescription>ClassicLockScreen</shortDescription>
 </package>
